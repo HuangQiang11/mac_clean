@@ -1,2 +1,2 @@
 # mac_clean
-cleanMyMac
+功能类似CleanMyMac
