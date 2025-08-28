@@ -1,0 +1,2 @@
+# mac_clean
+cleanMyMac
